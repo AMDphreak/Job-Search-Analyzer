@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"rjamd"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "job-search-analyzer",
+	"dependencies": {
+		"symmetry-imap": "~>0.3.0",
+		"d2sqlite3": "~>1.0.0"
+	}
+}
